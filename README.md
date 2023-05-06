@@ -1,3 +1,3 @@
 # DEMO
 
-Some description here.
+Some description.
